@@ -40,4 +40,6 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 	virtual class UAbilitySystemComponent* GetAbilitySystemComponent() const override;
+
+	// testing git connection
 };
